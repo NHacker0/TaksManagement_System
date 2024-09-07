@@ -1,9 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using TaksManagement_System.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+builder.Services.AddControllersWithViews();
+
+// Configure DbContext
+builder.Services.AddDbContext<TaskManagementContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("TaksManagemenDB")));
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

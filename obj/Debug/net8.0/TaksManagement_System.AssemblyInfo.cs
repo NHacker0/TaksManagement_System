@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaksManagement_System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0693ebd775e3d5c5dba2b312da02666a972dc4f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec7c59a56aba0e42957b3e6325f1232db202a49b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaksManagement_System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaksManagement_System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
