@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TaksManagement_System.props" />
+</Project>

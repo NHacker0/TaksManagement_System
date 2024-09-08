@@ -1,17 +1,21 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using TaksManagement_System.Data;
+using TaksManagement_System.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-var app = builder.Build();
-builder.Services.AddControllersWithViews();
-
 // Configure DbContext
 builder.Services.AddDbContext<TaskManagementContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("TaksManagemenDB")));
+
+
+
+var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -20,6 +24,8 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
+
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
