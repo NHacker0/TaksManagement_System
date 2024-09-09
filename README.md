@@ -21,7 +21,7 @@ Before running this project, ensure you have the following installed on your mac
 
 ---
 
-## Step-by-Step Instructions
+## Intallation
 
 ### 1. Clone the Repository
 
