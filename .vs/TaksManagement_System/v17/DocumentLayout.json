@@ -7,24 +7,44 @@
       "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Migrations\\20240908235026_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240908235026_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C9CC900-0899-41A2-937F-01F756BA47F1}|TaksManagement_System.csproj|c:\\users\\my pc\\desktop\\taksmanagement_system\\data\\taskmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,19 +74,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskManagementContext.cs",
-              "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Data\\TaskManagementContext.cs",
-              "RelativeDocumentMoniker": "Data\\TaskManagementContext.cs",
-              "ToolTip": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Data\\TaskManagementContext.cs",
-              "RelativeToolTip": "Data\\TaskManagementContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T01:51:52.942Z"
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T23:54:44.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T23:54:25.717Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Views\\Home\\create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\create.cshtml",
+              "ToolTip": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Views\\Home\\create.cshtml",
+              "RelativeToolTip": "Views\\Home\\create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T23:54:07.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Homepage.cshtml",
+              "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Views\\Home\\Homepage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Homepage.cshtml",
+              "ToolTip": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Views\\Home\\Homepage.cshtml",
+              "RelativeToolTip": "Views\\Home\\Homepage.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T23:52:56.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240908235026_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Migrations\\20240908235026_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240908235026_Initial.cs",
+              "ToolTip": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Migrations\\20240908235026_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240908235026_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:50:27.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Models\\Task.cs",
               "RelativeDocumentMoniker": "Models\\Task.cs",
@@ -74,24 +147,38 @@
               "RelativeToolTip": "Models\\Task.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T01:48:40.753Z"
+              "WhenOpened": "2024-09-07T01:48:40.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-07T01:44:58.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T12:00:00.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -103,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -111,12 +198,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T01:43:09.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T01:43:09.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -124,21 +210,7 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-07T12:07:28.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T12:00:00.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T12:07:28.734Z"
             },
             {
               "$type": "Document",
@@ -150,11 +222,24 @@
               "RelativeToolTip": "Models\\LoginViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T11:56:05.764Z"
+              "WhenOpened": "2024-09-07T11:56:05.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
+              "Title": "TaskManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Data\\TaskManagementContext.cs",
+              "RelativeDocumentMoniker": "Data\\TaskManagementContext.cs",
+              "ToolTip": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Data\\TaskManagementContext.cs",
+              "RelativeToolTip": "Data\\TaskManagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T01:51:52.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\My PC\\Desktop\\TaksManagement_System\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
